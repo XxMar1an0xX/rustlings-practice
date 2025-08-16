@@ -1,1 +1,1 @@
-/home/ruiz/rustlings/target/debug/enums2: /home/ruiz/rustlings/exercises/08_enums/enums2.rs
+/home/ruiz/rustlings-practice/target/debug/enums2: /home/ruiz/rustlings-practice/exercises/08_enums/enums2.rs

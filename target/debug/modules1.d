@@ -1,1 +1,1 @@
-/home/ruiz/rustlings/target/debug/modules1: /home/ruiz/rustlings/exercises/10_modules/modules1.rs
+/home/ruiz/rustlings-practice/target/debug/modules1: /home/ruiz/rustlings-practice/exercises/10_modules/modules1.rs

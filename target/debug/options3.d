@@ -1,1 +1,1 @@
-/home/ruiz/rustlings/target/debug/options3: /home/ruiz/rustlings/exercises/12_options/options3.rs
+/home/ruiz/rustlings-practice/target/debug/options3: /home/ruiz/rustlings-practice/exercises/12_options/options3.rs

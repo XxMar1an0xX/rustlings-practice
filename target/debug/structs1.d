@@ -1,1 +1,1 @@
-/home/ruiz/rustlings/target/debug/structs1: /home/ruiz/rustlings/exercises/07_structs/structs1.rs
+/home/ruiz/rustlings-practice/target/debug/structs1: /home/ruiz/rustlings-practice/exercises/07_structs/structs1.rs

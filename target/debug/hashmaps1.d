@@ -1,1 +1,1 @@
-/home/ruiz/rustlings/target/debug/hashmaps1: /home/ruiz/rustlings/exercises/11_hashmaps/hashmaps1.rs
+/home/ruiz/rustlings-practice/target/debug/hashmaps1: /home/ruiz/rustlings-practice/exercises/11_hashmaps/hashmaps1.rs
