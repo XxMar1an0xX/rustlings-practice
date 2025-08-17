@@ -1,0 +1,2 @@
+Map<array::iter::IntoIter<i64, 4>, {closure@exercises/18_iterators/iterators3.rs:36:52: 36:55}>
+Map<std::array::IntoIter<i64, 4>, {closure@exercises/18_iterators/iterators3.rs:36:52: 36:55}>

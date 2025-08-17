@@ -24,6 +24,7 @@ fn main() {
 
     // TODO: Define `shared_numbers` by using `Arc`.
     // let shared_numbers = ???;
+    let shared_numbers = ;
 
     let mut join_handles = Vec::new();
 
